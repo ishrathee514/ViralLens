@@ -31,6 +31,7 @@ ________________________________________
 ## Architecture Diagram
 
 <img src="architecture.jpeg">
+
 ________________________________________
 ## Key Questions
 
